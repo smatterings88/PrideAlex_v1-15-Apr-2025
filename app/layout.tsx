@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 import { AuthProvider } from '@/lib/AuthContext';
 
 export const metadata = {
-  title: "AlexListens - Demo",
+  title: "AlexListens | Pride",
   description: "Sometimes you just need someone to talk to.",
   icons: {
     icon: 'https://storage.googleapis.com/msgsndr/JBLl8rdfV29DRcGjQ7Rl/media/67fe14cfc7a015d190da94a0.png',
