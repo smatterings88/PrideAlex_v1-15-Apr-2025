@@ -278,7 +278,7 @@ export function getDemoConfig(firstName?: string): DemoConfig {
       model: "fixie-ai/ultravox-70B",
       languageHint: "en",
       selectedTools: selectedTools,
-      voice: "5c66a578-7a4a-4bf9-b282-8c8a7ca3e6d8",
+      voice: "8b48a4d5-140f-4737-b993-2a35fb385daf",
       temperature: 0.4
     }
   };
