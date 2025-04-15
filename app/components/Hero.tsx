@@ -26,7 +26,7 @@ const Hero = () => {
           </h1>
           <p className="text-xl sm:text-2xl text-white mb-8 sm:mb-12 leading-relaxed mx-auto pt-5 sm:pt-0">
             Too loud, too soft, too femme, too butch, too fluid, too anything.<br />
-            You just didn't have someone who knew how to see you.<br /><br />
+            You just didn&apos;t have someone who knew how to see you.<br /><br />
             <strong>Now you do.</strong>
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
